@@ -1,0 +1,272 @@
+{
+  "categories": [
+    { "id": "ai-basics", "name": "AI Basics", "ta": "AI அடிப்படைகள்" },
+    { "id": "machine-learning", "name": "Machine Learning", "ta": "இயந்திரக் கற்றல்" },
+    { "id": "deep-learning", "name": "Deep Learning", "ta": "ஆழ்ந்த கற்றல்" },
+    { "id": "llms", "name": "LLMs & GenAI", "ta": "பெரிய மொழி மாதிரிகள் & GenAI" },
+    { "id": "modern-data-stack", "name": "Modern Data Stack", "ta": "நவீன டேட்டா ஸ்டாக்" }
+  ],
+  "videos": [
+    {
+      "playlistId": "PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX",
+      "title": "Introduction to Machine Learning (Tamil)",
+      "description": "Full NPTEL course taught in spoken Tamil — core ML ideas and algorithms, with technical terms in English.",
+      "category": "machine-learning",
+      "tags": ["machine-learning", "full-course", "beginner"],
+      "source": "NPTEL",
+      "channel": "Prof. Arun Rajkumar · IIT Madras",
+      "language": "ta",
+      "count": 73,
+      "added": "2026-11-03"
+    },
+
+    {
+      "playlistId": "PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm",
+      "title": "CS50's Introduction to AI with Python",
+      "description": "Search, knowledge, uncertainty, optimisation, learning, neural nets and language — with Python projects every week.",
+      "category": "ai-basics",
+      "tags": ["python", "full-course", "beginner"],
+      "source": "Harvard",
+      "channel": "Brian Yu · CS50",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2",
+      "title": "CS221: Artificial Intelligence — Principles and Techniques",
+      "description": "Stanford's broad AI foundations course: search, MDPs, games, constraint problems, Bayesian networks, logic.",
+      "category": "ai-basics",
+      "tags": ["full-course", "math"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "youtubeId": "aircAruvnKk",
+      "title": "But what is a neural network?",
+      "description": "Visual, intuition-first explanation of how a neural network is structured.",
+      "category": "ai-basics",
+      "tags": ["neural-networks", "beginner", "math"],
+      "source": "3Blue1Brown",
+      "channel": "3Blue1Brown",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+    {
+      "youtubeId": "IHZwWFHWa-w",
+      "title": "Gradient descent, how neural networks learn",
+      "description": "How a network improves itself by following the slope of its error.",
+      "category": "ai-basics",
+      "tags": ["neural-networks", "beginner", "math"],
+      "source": "3Blue1Brown",
+      "channel": "3Blue1Brown",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+
+    {
+      "playlistId": "PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+      "youtubeId": "jGwO_UgTS7I",
+      "title": "CS229: Machine Learning (Autumn 2018)",
+      "description": "Andrew Ng's classic Stanford course — regression, classification, SVMs, learning theory, unsupervised learning, RL.",
+      "category": "machine-learning",
+      "tags": ["andrew-ng", "full-course", "math"],
+      "source": "Stanford",
+      "channel": "Andrew Ng · Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
+      "title": "CS234: Reinforcement Learning",
+      "description": "How agents learn from reward — MDPs, policy gradients, exploration, and deep RL.",
+      "category": "machine-learning",
+      "tags": ["reinforcement-learning", "full-course", "advanced"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+
+    {
+      "playlistId": "PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+      "youtubeId": "VMj-3S1tku0",
+      "title": "Neural Networks: Zero to Hero",
+      "description": "Build neural nets from scratch in Python — from micrograd and backprop up to a working GPT.",
+      "category": "deep-learning",
+      "tags": ["python", "hands-on", "full-course", "backprop"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb",
+      "title": "CS230: Deep Learning",
+      "description": "Andrew Ng and Kian Katanforoosh on building, tuning and shipping deep learning projects.",
+      "category": "deep-learning",
+      "tags": ["andrew-ng", "full-course", "neural-networks"],
+      "source": "Stanford",
+      "channel": "Andrew Ng · Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+      "title": "MIT 6.S191: Introduction to Deep Learning",
+      "description": "MIT's fast-paced bootcamp — neural nets, CNNs, sequence models, generative models, with labs.",
+      "category": "deep-learning",
+      "tags": ["full-course", "neural-networks", "beginner"],
+      "source": "MIT",
+      "channel": "Alexander Amini · MIT",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv",
+      "title": "CS231n: CNNs for Visual Recognition",
+      "description": "The course that taught a generation computer vision — image classification, CNNs, training tricks.",
+      "category": "deep-learning",
+      "tags": ["computer-vision", "full-course"],
+      "source": "Stanford",
+      "channel": "Stanford University School of Engineering",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+
+    {
+      "youtubeId": "zjkBMFhNj_g",
+      "title": "Intro to Large Language Models",
+      "description": "A one-hour, non-technical overview of what LLMs are and where they are going.",
+      "category": "llms",
+      "tags": ["llm", "beginner", "overview"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+    {
+      "youtubeId": "7xTGNNLPyMI",
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "description": "How ChatGPT-style models are built end to end — pretraining, fine-tuning, RLHF — for a general audience.",
+      "category": "llms",
+      "tags": ["llm", "overview", "beginner"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "youtubeId": "wjZofJX0v4M",
+      "title": "Transformers, the tech behind LLMs",
+      "description": "Visual walkthrough of what happens inside a GPT-style transformer.",
+      "category": "llms",
+      "tags": ["llm", "transformers", "math"],
+      "source": "3Blue1Brown",
+      "channel": "3Blue1Brown",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+    {
+      "youtubeId": "kCc8FmEb1nY",
+      "title": "Let's build GPT: from scratch, in code",
+      "description": "Code a small GPT in PyTorch, line by line, following the original transformer paper.",
+      "category": "llms",
+      "tags": ["llm", "python", "hands-on", "transformers"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+    {
+      "youtubeId": "zduSFxRajkE",
+      "title": "Let's build the GPT Tokenizer",
+      "description": "Why tokenization causes so many LLM quirks — and building a byte-pair-encoding tokenizer yourself.",
+      "category": "llms",
+      "tags": ["llm", "python", "hands-on"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "youtubeId": "l8pRSuU81PU",
+      "title": "Let's reproduce GPT-2 (124M)",
+      "description": "Four hours of building and training GPT-2 from an empty file, including GPU speed optimisations.",
+      "category": "llms",
+      "tags": ["llm", "python", "hands-on", "advanced"],
+      "source": "Andrej Karpathy",
+      "channel": "Andrej Karpathy",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+      "title": "CS224N: NLP with Deep Learning",
+      "description": "Word vectors, RNNs, attention and transformers — the foundations under every modern LLM.",
+      "category": "llms",
+      "tags": ["nlp", "transformers", "full-course"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+      "title": "CS25: Transformers United",
+      "description": "Guest lectures from the researchers behind major transformer breakthroughs.",
+      "category": "llms",
+      "tags": ["transformers", "llm", "advanced"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_",
+      "title": "CS336: Language Modeling from Scratch",
+      "description": "Build every piece of a language model yourself — data, tokenizer, architecture, training, scaling.",
+      "category": "llms",
+      "tags": ["llm", "hands-on", "full-course", "advanced"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+    {
+      "playlistId": "PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
+      "title": "CS236: Deep Generative Models",
+      "description": "The maths behind generative AI — VAEs, GANs, normalising flows, diffusion models.",
+      "category": "llms",
+      "tags": ["generative-ai", "math", "full-course", "advanced"],
+      "source": "Stanford",
+      "channel": "Stanford Online",
+      "language": "en",
+      "added": "2026-11-03"
+    },
+
+    {
+      "youtubeId": "zsjvFFKOm3c",
+      "title": "SQL explained in 100 seconds",
+      "description": "The fastest possible refresher on what SQL is and why every data stack runs on it.",
+      "category": "modern-data-stack",
+      "tags": ["sql", "beginner"],
+      "source": "Fireship",
+      "channel": "Fireship",
+      "language": "en",
+      "added": "2026-11-02"
+    },
+    {
+      "youtubeId": "Gjnup-PuquQ",
+      "title": "Docker in 100 seconds",
+      "description": "Containers in under two minutes — the base layer under most modern data tools.",
+      "category": "modern-data-stack",
+      "tags": ["docker", "beginner", "devops"],
+      "source": "Fireship",
+      "channel": "Fireship",
+      "language": "en",
+      "added": "2026-11-02"
+    }
+  ]
+}

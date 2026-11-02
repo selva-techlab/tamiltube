@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* ── Colour palette: change these lines to re-theme the whole site ── */
+:root {
+  --bg: #ffffff;       /* page background */
+  --fg: #0f0f0f;       /* titles, logo */
+  --muted: #606060;    /* channel names, meta text */
+  --line: #e5e5e5;     /* borders */
+  --chip: #f2f2f2;     /* chip + search-button background */
+  --chip-hover: #e5e5e5;
+  --accent: #e8682a;   /* the orange in "Tube" */
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-chip: var(--chip);
+  --color-chip-hover: var(--chip-hover);
+  --color-accent: var(--accent);
+  /* System UI font for English (like HackerTube), Noto Sans Tamil for Tamil */
+  --font-sans: "Segoe UI", Roboto, "Helvetica Neue", Arial, var(--font-tamil), sans-serif;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+}
+
+/* Hide the scrollbar on the horizontal chip row */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
